@@ -1,9 +1,5 @@
 #include "FcdbwGp.h"
-#include "Db.h"
-#include "DbSedna.h"
-#include "DbArango.h"
 
-using namespace fcdbwgp;
 // Declare our game instance
 FcdbwGp game;
 
@@ -44,8 +40,6 @@ void FcdbwGp::initialize()
 
    registerGesture(Gesture::GESTURE_SWIPE);
     // setCursorVisible(false);
-   Db *dbSedna = new DbSedna();
-   Db *dbArango = new DbArango();
 }
 
 void FcdbwGp::finalize() {

@@ -170,8 +170,6 @@ set(GAME_HEADERS
 )
 
 set(GAME_SRC
-    src/DbArango.cpp
-    src/DbSedna.cpp
     src/FcdbwGp.cpp
 )
 

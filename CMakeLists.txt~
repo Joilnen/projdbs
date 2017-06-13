@@ -99,7 +99,7 @@ include_directories(
     ${GAMEPLAY_SRC_PATH}/gameplay/src
     ${GAMEPLAY_SRC_PATH}/external-deps/include
     dblibs/fuerte/include
-    dblibs/fuerte/include/fuerte/
+    dblibs/fuerte/include/fuerte
     dblibs/sedna/include
 )
 
@@ -170,8 +170,6 @@ set(GAME_HEADERS
 )
 
 set(GAME_SRC
-    src/DbArango.cpp
-    src/DbSedna.cpp
     src/FcdbwGp.cpp
 )
 

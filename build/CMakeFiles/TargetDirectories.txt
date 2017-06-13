@@ -1,6 +1,0 @@
-/home/joilnen/Fcdbw_gp/build/CMakeFiles/rebuild_cache.dir
-/home/joilnen/Fcdbw_gp/build/CMakeFiles/edit_cache.dir
-/home/joilnen/Fcdbw_gp/build/CMakeFiles/Fcdbw_gp.dir
-/home/joilnen/Fcdbw_gp/build/CMakeFiles/CopyRes.dir
-/home/joilnen/Fcdbw_gp/build/CMakeFiles/CopyConfig.dir
-/home/joilnen/Fcdbw_gp/build/CMakeFiles/CopyShaders.dir
